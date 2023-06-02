@@ -41,3 +41,9 @@ graph TD
     
     
    ```
+   
+   
+   
+## Recommendation
+* It can be concluded from the distribution of salary against work hour that the number of people who work more than 40 hours earn above 50k and the people who earn less than 50k work less 40 hours per week.So the government can encourage more working
+* The distribution of work class and worked hours per week show that the self employed people work more hours than the others in the group which were not specified. The goverment can engourage other sectors to work more hours
