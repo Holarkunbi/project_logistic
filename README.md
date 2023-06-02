@@ -27,7 +27,7 @@ native-country: United-States, Cambodia, England, Puerto-Rico, Canada, - - Germa
 salary: >50K, <=50K (dependent variable, the salary is in Dollars per year)
 
 ## Representation of the steps taken
-```mermaid
+``` mermaid
 graph TD
     A[Data Analysis Initiated]
     A -->|1. Define research objectives| B(Gather WHO dataset)
